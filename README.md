@@ -18,6 +18,10 @@ Updates within the ``Movizon`` platform - also posted on reddit on a monthly bas
 
 Gitter channel for everyday communication:
 
+[![Discord][discord-badge]][discord-link]
+
+Community channel for discuss:
+
 [![Telegram][telegram-badge]][telegram-link]
 
 ## Contribution Guidelines
@@ -37,3 +41,5 @@ TODO
 [reddit-link]: https://www.reddit.com/r/movizon/
 [telegram-badge]: https://img.shields.io/static/v1?logo=telegram&label=Telegram&message=Join&color=blue
 [telegram-link]: https://t.me/movizonplatformglobal
+[discord-badge]: https://img.shields.io/static/v1?logo=discord&label=Discord&message=Join&color=blue
+[discord-link]: https://discord.gg/bPMyFPXvmg
